@@ -9,7 +9,7 @@
     "start": "node simulator.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mary Antoniette Real",
   "license": "ISC",
   "devDependencies": {
     "@types/mocha": "^8.0.3",
